@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           A curated list of the best data science internships
         </p>
-        <script async data-uid="ee31cbaf50" src="https://tropianhs.ck.page/ee31cbaf50/index.js"></script>
+        <script async data-uid="ee13e1310a" src="https://tropianhs.ck.page/ee13e1310a/index.js"></script>
       </main>
 
       <Footer />
