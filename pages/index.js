@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Data Science Internships" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A curated list of the best data science internships
         </p>
+        <script async data-uid="ee31cbaf50" src="https://tropianhs.ck.page/ee31cbaf50/index.js"></script>
       </main>
 
       <Footer />
